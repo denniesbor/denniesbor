@@ -4,8 +4,12 @@ ___
 ****
 `I am an engineer, with post grad training in radio astronomy.
 Currently studying Artificial Intelligence and Linux Systems Admin`
-`Proceed to my -->` [Repo] (https://github.com/denniesbor?tab=repositories)
-___
-or to my portfolio [-->](https://denniesbor.github.io)
+`For more info visit:`
 
+* [Github Repo](https://github.com/denniesbor?tab=repositories)
+___
+* my [portfolio](https://denniesbor.github.io)
+
+___
+* my [website](http://denniesbor.live)
 ✨ **Cheers** ✨ 
