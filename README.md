@@ -13,5 +13,7 @@ ___
 ___
 * my [website](http://denniesbor.live)
 
-___
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denniesbor)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ✨ **Cheers** ✨ 
