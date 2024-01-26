@@ -1,6 +1,6 @@
 **Welcome to Dennies Bor Github Portfolio**
 
-`A PhD student focussiong on spatial-computing-based solutions to social, political and economic problems`
+`A PhD student focussiong on spatial-based-computing solutions to social, political and economic challenges`
 ****
 `Generally, I am self taught!`
 `For more info visit:`
