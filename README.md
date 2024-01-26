@@ -1,9 +1,8 @@
-**Welcome to DenniesBor Software hub.**
-___
-`I am self learner.`
+**Welcome to Dennies Bor Github Portfolio**
+
+`A PhD student focussiong on spatial-computing-based solutions to social, political and economic problems`
 ****
-`I am an engineer, with post grad training in radio astronomy.
-Currently studying Artificial Intelligence and Linux Systems Admin`
+`Generally, I am self taught!`
 `For more info visit:`
 
 * [Github Repo](https://github.com/denniesbor?tab=repositories)
@@ -11,7 +10,7 @@ ___
 * my [portfolio](https://denniesbor.github.io)
 
 ___
-* my [website](http://denniesbor.live)
+* my [website](http://denniesbor.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denniesbor)](https://github.com/anuraghazra/github-readme-stats)
 
