@@ -1,4 +1,4 @@
-**Welcome to Dennies Bor GitHub Portfolio**
+**Welcome to Dennies Bor's GitHub Portfolio**
 
 `PhD candidate at George Mason University, researching space weather impacts on critical infrastructure. Specialist in spatial computing, web-based GIS, and cloud engineering. Develops geospatial applications using Leaflet, Mapbox, and Google Cloud Platform. Experienced in data science, remote sensing analysis, and AWS deployment.`
 
